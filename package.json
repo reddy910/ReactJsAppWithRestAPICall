@@ -2,7 +2,7 @@
   "name": "ui-webapp",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://reddy910.github.io/Reddy910/",
+  "homepage": "https://reddy910.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -31,5 +31,16 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "npx create-react-app ReactJsAppWithRestAPICall cd ReactJsAppWithRestAPICall npm start",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reddy910/ReactJsAppWithRestAPICall.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reddy910/ReactJsAppWithRestAPICall/issues"
   }
 }
